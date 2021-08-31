@@ -14,8 +14,8 @@ Dic = {'MAE': 'dodgerblue',
 
 for f in os.listdir(Dir):
     # Pega a métrica, código da estação e cor a ser usada
-    metric = f.split('_')[1]
-    cod = f.split('_')[2][:-4]
+    metric = f[7:-13]
+    cod = f[-12:-4]
     cor = Dic[metric]
 
     # Abre os dados
