@@ -12,3 +12,10 @@ Os dados utilizados como exemplo são da bacia do rio Iguaçu, gerada com as rot
 A ideia foi baseada nos resultados obtidos na dissertação da Geovana Thais Colombo: 
  - "Dinâmica térmica em rios e relações com variáveis meteorológicas" 
  - https://acervodigital.ufpr.br/handle/1884/63819
+
+EXEMPLOS
+# Melhores Reusultados usando R2 como métrica de seleção
+![R2_geral](https://user-images.githubusercontent.com/73908748/131568897-cd062732-1ca8-45d8-a8a5-75e0407225ee.png)
+
+# Serie Temporal ajusta para a estação 65004900 - Usando a métrica MAE como base de seleção do método de regressão
+![Time_series_MAE_65004900](https://user-images.githubusercontent.com/73908748/131569047-8cff5bb2-e8fe-40ca-ae97-3ce3946f3bee.png)
