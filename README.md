@@ -5,7 +5,7 @@ As rotinas faz parte do Toolkit SABIA, criado dentro do projeto Iguaçu - Estudo
 - https://github.com/UFPR-PPGERHA/Projeto_iguacu
 - https://github.com/UFPR-PPGERHA/SABIA
 
-Os utilizados como exemplo são da bacia do rio Iguaçu, gerada com as rotinas do projeto Iguaçu
+Os dados utilizados como exemplo são da bacia do rio Iguaçu, gerada com as rotinas do projeto Iguaçu
 - https://drive.google.com/drive/folders/1dtha0Mtp30yqa4HXv4SlkT7UDSMYaFBV?usp=sharing
  
 A ideia foi baseada nos resultados obtidos na dissertação da Geovana Thais Colombo: 
