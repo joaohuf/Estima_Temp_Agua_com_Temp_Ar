@@ -28,7 +28,7 @@ for f in os.listdir(Dir):
 
     # Formatação e salva a figura
     plt.xlabel('Data')
-    plt.ylabel('Temperatura do Ar (C°)')
+    plt.ylabel('Temperatura da Água (C°)')
     plt.title(f'Melhor ajuste usando: {metric}')
     plt.legend()
     plt.tight_layout()
